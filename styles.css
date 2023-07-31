@@ -1,0 +1,83 @@
+.navbar {
+  background-color: #03241C;
+}
+
+.navbar-light .navbar-brand {
+  color: #ffffff;
+}
+
+.text-color {
+  color: #ffffff;
+}
+
+.name-tag {
+  margin-left: 1.5rem;
+}
+
+.paragraph-tag{
+  margin-top: 10%;
+  margin-bottom: 10%;
+  text-align: center;
+  font-size: 2rem;
+  color: #1B1B1B;
+}
+
+.banner-text{
+  text-align: left;
+  margin-left: 1%;
+  font-size: 3rem;
+  color: #08513f;
+}
+
+.title{
+font-family: 'Cinzel', serif;
+font-size: 3rem;
+}
+
+.aboutme{
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+
+.contact{
+  margin-left: 15%;
+  margin-right: 15%;
+  margin-top: 5%;
+  font-size: 3rem;
+  border: none;
+}
+
+.form{
+  font-size: 1.5rem;
+  border-radius: 3px;
+  border: none;
+}
+
+.spacing{
+  margin-left: 20%;
+}
+
+.send-message{
+  display: block;
+  text-align: center;
+  border: none;
+}
+
+.text-box{
+  display: block;
+  width: 700px;
+  height: 200px;
+  border: none;
+}
+
+.no-border{
+  border: none;
+}
+
+.submit-button{
+  width: 90%;
+  align-content: center;
+  margin-top: 2%;
+  margin-left: 5%;
+}
